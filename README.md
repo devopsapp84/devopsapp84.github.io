@@ -1,5 +1,3 @@
-# devopsapp84.github.io
-
 ## Internal Helm Chart repository
 
 ### List of repos:
